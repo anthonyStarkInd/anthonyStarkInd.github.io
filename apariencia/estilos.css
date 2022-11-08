@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8cbdb8220ea79299900b19d8814669da184093df337aafbbaaa83197f0ac71a3
-size 299
+
+body{
+    background-color: rgb(255, 60, 0);
+    margin: 0;
+}
+.flex-container{
+    width: 100%;
+    height: 100vh;
+    
+}
+.hola1{
+    height: 30%;
+    width: 100%;
+}
+.dos{
+    height: 70%;
+    display: block;
+}
+img{
+    height: 60%;
+    margin: 0 33%;
+}
+iframe{
+
+    margin: 0 27%;
+}
